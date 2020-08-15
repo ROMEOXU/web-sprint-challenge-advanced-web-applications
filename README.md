@@ -27,11 +27,11 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. Explain what a token is used for.
-2. What steps can you take in your web apps to keep your data secure?
-3. Describe how web servers work.
+1. Explain what a token is used for.it is a instructions，tell server what info need from browser,can save a lot memory 
+2. What steps can you take in your web apps to keep your data secure?Use a private route, and axiosWithAuth to send the token back with each api call.
+3. Describe how web servers work.A server is a computer that stores the code for your website and serves it up to the browser upon request.
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
-
+C - post R - get U - put D - delete
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
